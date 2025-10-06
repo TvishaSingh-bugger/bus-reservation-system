@@ -1,0 +1,2 @@
+void freeAuth();
+int authenticate();
